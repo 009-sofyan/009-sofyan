@@ -1,74 +1,51 @@
 <div align="center">
 
-<img src="./github-profile.gif" width="100%">
+<img src="https://raw.githubusercontent.com/009-sofyan/009-sofyan/main/github-profile.gif" width="100%">
 
 # 🌙 My Profile — Sofyan
 
-### Informatika Student | Web Developer
+### 🐉 Informatika Student | Aspiring Web Developer
 
-Website biodata pribadi untuk menampilkan profil, minat, dan proyek yang pernah saya kerjakan.
+<p>
+Mahasiswa Informatika yang sedang belajar pemrograman
+dan pengembangan aplikasi.
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 Tentang Saya
+## 🏮 Tentang Saya
 
-Halo, saya **Sofyan**, mahasiswa Program Studi Informatika di Universitas Madura.
+Halo, saya **Sofyan**, mahasiswa **Program Studi Informatika di Universitas Madura**.
 
-Saya memiliki ketertarikan pada dunia teknologi, khususnya dalam bidang pemrograman dan pengembangan aplikasi. Melalui project yang saya kerjakan, saya ingin memperkenalkan diri sekaligus menampilkan beberapa kemampuan dan project yang pernah saya kerjakan.
+Saya memiliki ketertarikan pada dunia teknologi, khususnya dalam bidang **pemrograman dan pengembangan aplikasi**. Saat ini saya masih dalam tahap belajar dan terus mencoba memahami berbagai bahasa pemrograman serta teknologi yang digunakan dalam pengembangan aplikasi.
 
-- 🎓 Mahasiswa Informatika
+Saya belajar melalui tugas kuliah, project, dan mencoba membuat berbagai aplikasi sederhana untuk menambah pengalaman serta meningkatkan kemampuan saya dalam bidang teknologi.
+
+- 🎓 Mahasiswa Program Studi Informatika
 - 💻 Tertarik pada Web Development
-- 🌱 Sedang belajar dan mengembangkan kemampuan pemrograman
-- 🚀 Senang mencoba hal-hal baru di bidang teknologi
+- 🌱 Masih belajar HTML, CSS, JavaScript, dan Python
+- 🐍 Sedang mempelajari dasar-dasar Python
+- 🌐 Belajar membuat website dan aplikasi sederhana
+- 🚀 Senang mencoba teknologi dan project baru
+- 📚 Terus belajar untuk meningkatkan kemampuan pemrograman
 
 ---
 
-## 🛠️ Tech Stack
+## 🐉 My Learning Journey
 
-<div align="center">
+> *"Seperti seorang murid yang sedang menempuh perjalanan untuk menjadi pendekar,
+> kemampuan dalam pemrograman juga dibangun sedikit demi sedikit."*
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs,express,svelte,git,github,vscode" />
+Saat ini saya masih berada dalam tahap **belajar dan eksplorasi**.
 
-</div>
+Beberapa teknologi yang sedang saya pelajari:
 
----
-
-## 📂 Project
-
-### 🌐 My Profile
-
-Website biodata pribadi dengan konsep visual Donghua / Xianxia, menggunakan perpaduan warna gelap, emas, silver, dan ornamen untuk memberikan kesan elegan dan misterius.
-
-- **Repository:** [My-profile](https://github.com/009-sofyan/My-profile)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=009-sofyan&show_icons=true&theme=tokyonight" height="160">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=009-sofyan&layout=compact&theme=tokyonight" height="160">
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-009--sofyan-181717?style=for-the-badge&logo=github)](https://github.com/009-sofyan)
-
-</div>
-
----
-
-<div align="center">
-
-✨ *"Keep learning, keep building, and keep growing."* ✨
-
-</div>
+```text
+HTML        ███████░░░  Dasar
+CSS         ██████░░░░  Dasar
+JavaScript  █████░░░░░  Pemula
+Python      █████░░░░░  Pemula
+SQL         █████░░░░░  Dasar
+Git         █████░░░░░  Dasar
