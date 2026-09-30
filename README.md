@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/009-sofyan/009-sofyan/main/github-profile.gif.gif" width="60%">
+<img src="https://raw.githubusercontent.com/009-sofyan/009-sofyan/main/github-profile.gif" width="100%">
 
 ### 🐉 Informatika Student | Aspiring Web Developer
 
